@@ -141,3 +141,5 @@ total = price * quantity
 
 print(f"You have bought {quantity} x {item}/s")
 print(f"Your total is: ${round(total, 2)}")
+
+print("Sunny")
